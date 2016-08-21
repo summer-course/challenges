@@ -1,1 +1,2 @@
-Add notes to the challenge solution here
+לא הספקתי לעשות את 5 כמו שצריך אחרי הרמז :\
+גם לא את 7.
