@@ -1,12 +1,12 @@
 Challenge 1:
 	task 1:
-		expected error:
+		expected error: 0.23
 		
 	task 2:
-		expected error:
+		expected error: 0.68
 		
 	task 3:
-		expected error:
+		expected error: 0.84
 		
 	task 4:
 		expected error: 0.25
