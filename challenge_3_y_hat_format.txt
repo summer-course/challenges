@@ -1,0 +1,2 @@
+pd.DataFrame(y_hat, columns=['y_hat']).to_csv('challenge3_task_1.csv.gz', index=False, compression='gzip')
+# y_hat is your list of predictions
